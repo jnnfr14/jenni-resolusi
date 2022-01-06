@@ -1,0 +1,4 @@
+Rencana belajar 2022
+  -Belajar tentang GIT
+  -Belajar C++
+  -Belajar materi MTK
