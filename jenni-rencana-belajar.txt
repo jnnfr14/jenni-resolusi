@@ -2,5 +2,6 @@ Rencana belajar 2022
   -Belajar tentang GIT
   -Belajar materi MTK
     *Belajar kalkulus
-    *Belajar diagram
-  -Belajar python
+    *Belajar logika matematika
+  -Belajar inggris
+  -Belajar hardware dan software
